@@ -1,6 +1,7 @@
 # Demographic
 R shiny Model for Demographic Details
 
-To use this model you need a DM Domain as an SDTM(Standard Data Tabulation Model) Dataset in either .csv, .xlsx, .xpt or .sas7bdat format.
-The model is not fully operational at this time.
+The DM Version 1 has some back ends in which the table output gives an error
 
+The DM Version 2 have solved the problem given in DM Version 1 but the problem is we need to specify treatment variable as ARM (in small letters or capital letters)
+then only it will work.
